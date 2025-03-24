@@ -29,29 +29,8 @@ Segurança: Criptografia com bcrypt, HTTPS
 
 DevOps: Docker, CI/CD (GitHub Actions)
 
-🏗️ Como Rodar o Projeto
 
-1️⃣ Clone o repositório
 
-git clone https://github.com/seu-usuario/banco-digital-educacional.git
-cd banco-digital-educacional
-
-2️⃣ Instale as dependências
-
-npm install  # ou yarn install
-
-3️⃣ Configure as variáveis de ambiente
-
-Crie um arquivo .env com as configurações:
-
-DATABASE_URL=seu_banco_de_dados
-JWT_SECRET=sua_chave_secreta
-
-4️⃣ Rode o projeto
-
-npm run dev  # Inicia o servidor localmente
-
-Acesse http://localhost:3000 para visualizar a aplicação.
 
 🎯 Objetivos do Projeto
 
